@@ -1,6 +1,7 @@
-# DCIT209-e-commerce-website-
+# A-Responsive-Ecommerce-Website-Project
 A Responsive Ecommerce Website Project With HTML CSS JavaScript named Evara e-commerce
 
+                                    
 # GROUP 17
 STEPHEN OPARE ABIJAH – 10966785
 MADUGU KELLY -22121883 
@@ -21,9 +22,3 @@ Scrolling and Clicking: Scroll through pages to view content and click on links 
 Responsive Design: The website is designed to be responsive, meaning it adapts to different screen sizes and devices.
 Interactive Elements: Use interactive elements like forms, sliders, or animations to engage with the content.
 JavaScript Features: Some features may require JavaScript to be enabled in your browser for full functionality.
-
-![image](https://github.com/user-attachments/assets/2932703a-d0b0-4a6c-b923-cc12c61d0e23)
-![image](https://github.com/user-attachments/assets/76264226-90d6-49ad-ba51-0cacb46cfa5c)
-![image](https://github.com/user-attachments/assets/d8dc27aa-5f49-4c5c-9e2f-52f95d7981dd)
-
-
