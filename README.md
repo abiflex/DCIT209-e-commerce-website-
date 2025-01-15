@@ -22,3 +22,5 @@ Scrolling and Clicking: Scroll through pages to view content and click on links 
 Responsive Design: The website is designed to be responsive, meaning it adapts to different screen sizes and devices.
 Interactive Elements: Use interactive elements like forms, sliders, or animations to engage with the content.
 JavaScript Features: Some features may require JavaScript to be enabled in your browser for full functionality.
+# Screenshots
+![image alt] (https://github.com/abiflex/DCIT209-e-commerce-website-/blob/1d174a70dc592d4df96b390858510874d5eef7e2/pic%20for%20github.png)
