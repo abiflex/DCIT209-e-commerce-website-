@@ -2,7 +2,7 @@
 A Responsive Ecommerce Website Project With HTML CSS JavaScript named Evara e-commerce
 
                                     
-# GROUP 17
+# GROUP 18
 STEPHEN OPARE ABIJAH – 10966785
 MADUGU KELLY -22121883 
 ASHONG-KATAI MARK HANDSOME -22112890 
